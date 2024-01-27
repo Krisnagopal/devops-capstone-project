@@ -1,0 +1,12 @@
+**As a Software Engineer  
+**I need to learn the basics  
+**So that I can coomplete my development related task  
+      
+### Details and Assumptions
+    * I am a CSE/EEE graduate      
+
+### Acceptance Criteria     
+    gherkin 
+    Given I am an engineering graduate AND know the basics 
+    When a development related task will be assigned to me
+    Then I will be able to complete the task.
